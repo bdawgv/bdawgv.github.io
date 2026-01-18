@@ -1,0 +1,26 @@
+body {
+    background-color: #1e1f24;
+}
+
+h {
+    font-family: Monospace;
+    font-size: 24px;
+    color: #8080f0;
+}
+
+p {
+    font-family: Monospace;
+    color: #b0b0b0;
+}
+
+p2000 {
+    font-family: Monospace;
+    color: #b0b0b0;
+    text-decoration: overline solid;
+}
+
+p10128 {
+    font-family: Monospace;
+    color: #b0b0b0;
+    text-decoration: underline solid;
+}
