@@ -1,0 +1,51 @@
+body {
+    font-family: Monospace;
+    background-color: #363847;
+    color: #e0e0e0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p1 {
+    font-size: 24px;
+}
+
+.navbuttons {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 350px;
+}
+
+.navbuttons div {
+    text-align: center;
+    font-size: 24px;
+    margin: 30px;
+}
+
+a:link {
+  color: #e0e0e0;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #e0e0e0;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #363847;
+  background-color: #e0e0e0;
+  text-decoration: none;
+}
+
+a:active {
+  color: #e0e0e0;
+  background-color: transparent;
+  text-decoration: none;
+}
